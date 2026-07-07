@@ -1,0 +1,2 @@
+data_pipeline/*.csv
+data_pipeline/goodreads_interactions.csv
