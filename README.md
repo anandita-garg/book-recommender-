@@ -1,4 +1,4 @@
-#Macro
+# Macro
 
 Time Series Data of Emotional Flow of Books
 
@@ -12,7 +12,7 @@ https://link.springer.com/article/10.1140/epjds/s13688-016-0093-1
 
 (or just a sentiment analyser)
 
-#Meso
+# Meso
 
 Character Interaction Graphs
 
@@ -20,6 +20,6 @@ https://arxiv.org/abs/2512.12654
 
 https://github.com/booknlp/booknlp
 
-#Micro
+# Micro
 
 Sentence length, readability, vocab richness, genre, length, year
